@@ -34,7 +34,7 @@ exports.up = function(db) {
 };
 
 exports.down = function(db) {
-  return db.dropTable('test', {
+  return db.dropTable('crashtest', {
     ifExists: true
   });
 };
