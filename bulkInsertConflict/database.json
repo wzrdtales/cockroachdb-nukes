@@ -1,0 +1,9 @@
+{
+   "dev": {
+      "user": "root",
+      "driver": "cockroachdb",
+      "database": "yourdatabasenamehere",
+      "host": "localhost",
+      "port": 26257
+   }
+}
